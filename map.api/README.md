@@ -1,7 +1,7 @@
 ## 高德地图、百度地图 使用案例
 
 效果图
-![效果图](https://raw.githubusercontent.com/ec2ec/ec.snippet/master/mapapi.gif)
+![效果图](https://github.com/ec2ec/ec.snippet/raw/master/map.api/mapapi.gif)
 
 ### 本案例演示了【高德地图】的
 [x] 坐标与地址
